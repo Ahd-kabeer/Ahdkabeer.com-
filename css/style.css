@@ -1,9 +1,9 @@
 /* ------------------------------------------------------------------------------
 
-  Template Name: Richard. 
-  Description: Richard. - Easy Onepage Personal Template
-  Author: Paul
-  Author URI: http://themeforest.net/user/paul_tf
+  Template Name: prince 
+  Description: prince_k - Easy Onepage Personal Template
+  Author: kabeer
+
   
   1.  Global
 
@@ -233,10 +233,13 @@ a:focus {
 a:focus{
   text-decoration: none;
 }
-
+.heeles{
+  padding-left: 290px;
+}
 .lead{
   line-height: 1.9;
   font-size: 1.125rem;
+  color:black;
 }
 
 
